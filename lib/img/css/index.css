@@ -1,0 +1,71 @@
+/* Basic Notations End */
+
+/* Html Start */
+
+html {
+  font-family: "verdana";
+}
+
+/* Html End */
+
+/* Head Part Start */
+.header {
+    font-size: 21px;
+    color: red;
+    background: deepskyblue;
+    padding: 6px;
+    /* padding-left: 99px; */
+    text-align: center;
+    /*box-shadow: 2px 12px 2px 1px rgba(0, 0, 255, .2);*/
+}
+img#logo {
+    border: 5px solid greenyellow;
+}
+
+/* Head Part End */
+
+/* Menu Part */
+
+.menu > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu > ul > li {
+  background: #05F794 ;
+  color: red;
+  padding: 9px;
+  margin-bottom: 5px;
+  box-shadow: 10px 5px 5px #EE8C40 ;
+
+}
+.menu > ul > li:hover{
+  color: royalblue;
+  background: navajowhite;
+}
+
+/* Menu end */
+
+/* Aside part start */
+.aside {
+    background: aqua;
+    padding: 15px;
+    color: blue;
+    box-shadow: 1px 1px red, -1em 0 .1em olive;
+}
+
+/* Aside Part End */
+
+
+
+
+/* Footer start */
+.footer {
+    padding: 6px;
+    background: #7cc7d3;
+    font-size: 21px;
+    text-align: center;
+}
+
+/* Footer End */
